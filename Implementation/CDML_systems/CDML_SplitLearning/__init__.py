@@ -1,1 +1,1 @@
-#init from federated learning
+#init from split learning
