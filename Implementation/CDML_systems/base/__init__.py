@@ -1,1 +1,1 @@
-#init from federated learning
+#init of base learning
